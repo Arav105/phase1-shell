@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\phase1-shell\phase1-shell\bin\Debug\phase1-shell.exe.config
+C:\Users\Admin\source\repos\phase1-shell\phase1-shell\bin\Debug\phase1-shell.exe
+C:\Users\Admin\source\repos\phase1-shell\phase1-shell\bin\Debug\phase1-shell.pdb
+C:\Users\Admin\source\repos\phase1-shell\phase1-shell\obj\Debug\phase1-shell.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\phase1-shell\phase1-shell\obj\Debug\phase1-shell.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\phase1-shell\phase1-shell\obj\Debug\phase1-shell.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\phase1-shell\phase1-shell\obj\Debug\phase1-shell.exe
+C:\Users\Admin\source\repos\phase1-shell\phase1-shell\obj\Debug\phase1-shell.pdb
